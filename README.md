@@ -100,7 +100,7 @@ CREATE TABLE IF NOT EXISTS pembayaran_spp (
 > *filename* : **DatabaseConnection.java**
 >
 >   ```java
->    private static final String URL = "jdbc:mysql://localhost:3306/db_karyawan";
+>    private static final String URL = "jdbc:mysql://localhost:3306/dbProjectSiswa";
 >    private static final String USER = "root";
 >    private static final String PASSWORD = "";
 >   ```
